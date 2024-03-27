@@ -1,0 +1,14 @@
+#navbarNavAltMarkup {
+    
+    padding-right: 90px;
+    display: flex;
+    justify-content: end;
+    background-color: black;
+
+}
+img { 
+    size: 100%;
+}
+main { 
+    background-color: brown;
+    border-radius: 50px;}
